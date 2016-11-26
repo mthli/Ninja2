@@ -3,7 +3,7 @@ Ninja2
 
 Yet another web browser for Android, version 2.
 
-Support Android Lollipop and above.
+Support **Android 5.0+**.
 
 [Download]( "") | [Instruction]( "")
 
