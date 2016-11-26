@@ -7,6 +7,8 @@ Support Android Lollipop and above.
 
 [Download]( "") | [Instruction]( "")
 
+Language support: English/Simplified Chinese/Traditional Chinese
+
 If you want to use with your own language, just fork this repo, translate the [strings.xml]( ""), and then make a PR.
 
 ## Dependences
