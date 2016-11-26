@@ -5,9 +5,9 @@ Yet another web browser for Android, version 2.
 
 Support Android Lollipop and above.
 
-[Download APK]( "").
+[Download APK]( "") | [Instruction]( "")
 
-If you want to use with your own language, just fork this repo, translate the [strings.xml](), and then make a PR.
+If you want to use with your own language, just fork this repo, translate the [strings.xml]( ""), and then make a PR.
 
 ## Dependences
 
