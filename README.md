@@ -7,7 +7,7 @@ Support **Android 5.0+**.
 
 [Download]( "") | [Instruction]( "")
 
-Language support: English/Simplified Chinese/Traditional Chinese
+Language support: English/简体中文/繁體中文
 
 If you want to use with your own language, just fork this repo, translate the [strings.xml]( ""), and then make a PR.
 
