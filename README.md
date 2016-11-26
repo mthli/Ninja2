@@ -7,6 +7,8 @@ Support Android Lollipop and above.
 
 [Download APK]( "").
 
+If you want to use with your own language, just fork this repo and translate the [strings.xml]().
+
 ## Dependences
 
  - [ReactiveX/Rxjava](https://github.com/ReactiveX/RxJava "ReactiveX/RxJava")
