@@ -5,7 +5,7 @@ Yet another web browser for Android, version 2.
 
 Support **Android 5.0+**.
 
-[Download]( "") | [Instruction]( "")
+[Download]( "") | [Introduction](http://mthli.github.io/Ninja2-Introduction "Ninja2 Introduction")
 
 Language support: English/简体中文/繁體中文
 
