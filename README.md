@@ -9,7 +9,7 @@ Support **Android 5.0+**.
 
 Language support: English/简体中文/繁體中文
 
-If you want to use with your own language, fork this repo, translate the [strings.xml]( ""), and then make a PR.
+If you want to use with your own language, fork this repo, translate the [strings.xml](https://github.com/mthli/Ninja2/blob/master/strings.xml "strings.xml"), and then make a PR.
 
 ## Dependences
 
