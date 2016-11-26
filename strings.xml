@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_intro_title">Instruction</string>
+    <string name="app_intro_accessibility">
+        Working for Ninja2, no dirty things run in background.
+        \n\n- Quick swipe fingerprint sensor to recents(Android M+).
+        \n\n- Fingerprint confirm to split screen(Android N+).
+        \n\nAbove actions will not work when fingerprint sensor encounter unrecoverable error, unfortunately. Wait a minute and try again.
+    </string>
+
+    <string name="label_shortcut_new_tab_short">New tab</string>
+    <string name="label_shortcut_new_tab_long">New tab</string>
+    <string name="label_shortcut_private_short">Private</string>
+    <string name="label_shortcut_private_long">New private tab</string>
+
+    <string name="hint_search">Search</string>
+    <string name="label_quick_options">Quick options</string>
+    <string name="options_foreground">Open tab in foreground</string>
+    <string name="options_background">Open tab in background</string>
+    <string name="options_new_tab">New tab</string>
+    <string name="options_private">New private tab</string>
+    <string name="options_download_image">Download image</string>
+    <string name="options_copy_url">Copy URL</string>
+    <string name="options_share_url">Share URL</string>
+    <string name="toast_copy_url">Copy %1$s</string>
+
+    <string name="hint_add_to_launcher">Label name</string>
+    <string name="hint_input_normal">Search or type URL</string>
+    <string name="hint_input_edit">Input pin title</string>
+    <string name="hint_login_username">Username</string>
+    <string name="hint_login_password">Password</string>
+    <string name="dialog_title_add_to_launcher">Add to launcher</string>
+    <string name="dialog_message_allow_location_prefix">Allow&#160;</string>
+    <string name="dialog_message_allow_location_suffix">&#160;to access this device\'s location?</string>
+    <string name="dialog_message_download_prefix">Confirm to download&#160;</string>
+    <string name="dialog_message_download_middle">, the size is about&#160;</string>
+    <string name="dialog_message_download_suffix">.</string>
+    <string name="dialog_message_form_resubmission">Form data need resubmission, would you like to resend the data?</string>
+    <string name="dialog_message_ssl_error_prefix">Secure connection to&#160;</string>
+    <string name="dialog_message_ssl_error_middle">&#160;failed.&#160;</string>
+    <string name="dialog_button_add">Add</string>
+    <string name="dialog_button_allow">Allow</string>
+    <string name="dialog_button_block">Block</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_confirm">Confirm</string>
+    <string name="dialog_button_deny">Deny</string>
+    <string name="dialog_button_login">Login</string>
+    <string name="dialog_button_process">Process</string>
+    <string name="dialog_button_resend">Resend</string>
+    <string name="page_menu_confirm">Confirm</string>
+    <string name="page_menu_overflow">Menu</string>
+    <string name="page_menu_action_refresh">Refresh</string>
+    <string name="page_menu_action_stop">Stop</string>
+    <string name="page_menu_screenshot">Screenshot</string>
+    <string name="page_menu_share_url">Share URL</string>
+    <string name="page_menu_desktop_mode">Desktop mode</string>
+    <string name="page_menu_new_tab">New tab</string>
+    <string name="page_menu_private">New private tab</string>
+    <string name="page_menu_pin_to_homepage">Pin to homepage</string>
+    <string name="page_menu_add_to_launcher">Add to launcher</string>
+    <string name="page_menu_settings">Settings</string>
+    <string name="page_menu_feedback">Feedback</string>
+    <string name="snack_message_downloading">Downloading %1$s.</string>
+    <string name="snack_message_save_to_path">Save to %1$s.</string>
+    <string name="snack_message_screenshot_failed">Screenshot failed.</string>
+    <string name="snack_message_pin_to_homepage">Pin %1$s.</string>
+    <string name="snack_message_add_to_launcher_successful">Add %1$s to launcher.</string>
+    <string name="snack_message_add_to_launcher_failed">Can\'t add %1$s to launcher.</string>
+    <string name="snack_message_camera_permission_denied">Camera permission denied.</string>
+    <string name="snack_message_location_permission_denied">Location permission denied.</string>
+    <string name="snack_message_record_audio_permission_denied">Record audio permission denied.</string>
+    <string name="snack_message_storage_permission_denied">Storage permission denied.</string>
+    <string name="snack_action_open">Open</string>
+    <string name="snack_action_retry">Retry</string>
+    <string name="snack_action_setting">Setting</string>
+    <string name="ssl_error_date_invalid">The date of the certificate is invalid.</string>
+    <string name="ssl_error_expired">The certificate has expired.</string>
+    <string name="ssl_error_idmismatch">Hostname mismatch.</string>
+    <string name="ssl_error_invalid">A generic error occurred.</string>
+    <string name="ssl_error_notyetvalid">The certificate is not yet valid.</string>
+    <string name="ssl_error_untrusted">The certificate authority is not trusted.</string>
+
+    <string name="dialog_message_wait_a_minute">Wait a minute&#8230;</string>
+    <string name="label_settings">Settings</string>
+    <string name="preference_category_browser">Browser</string>
+    <string name="preference_category_function">Function</string>
+    <string name="preference_category_others">Others</string>
+    <string name="preference_title_adblock">AdBlock</string>
+    <string name="preference_title_clear_cookies">Clear cookies</string>
+    <string name="preference_title_clear_form_data">Clear form data</string>
+    <string name="preference_title_clear_history">Clear history</string>
+    <string name="preference_title_clear_passwords">Clear passwords</string>
+    <string name="preference_title_enable_multiple_windows">Multiple windows</string>
+    <string name="preference_title_fingerprint_extension">Fingerprint extension</string>
+    <string name="preference_title_licenses">Licenses</string>
+    <string name="preference_title_screenshot">Show screenshot menu</string>
+    <string name="preference_title_search_engine_id">Search engine</string>
+    <string name="preference_title_show_soft_keyboard">Show soft keyboard</string>
+    <string name="preference_title_version">Version</string>
+    <string name="preference_summary_adblock">Use hosts to block advertisement.</string>
+    <string name="preference_summary_enable_multiple_windows">Allow website auto open new tabs.</string>
+    <string name="preference_summary_fingerprint_extension">Quick switch to recents and split screen, need to enable in system accessibility settings.</string>
+    <string name="preference_summary_licenses">Open source licenses detail.</string>
+    <string name="preference_summary_screenshot">Capture webpage as picture, but has some performance cost. Need to restart application.</string>
+    <string name="preference_summary_show_soft_keyboard">Auto focus on omnibox and show soft keyboard when new tab.</string>
+    <string-array name="preference_entries_search_engine_id">
+        <item>Google</item>
+        <item>DuckDuckGo</item>
+        <item>Bing</item>
+        <item>Baidu</item>
+    </string-array>
+    <string name="toast_clear_cookies">Clear cookies</string>
+    <string name="toast_clear_form_data">Clear form data</string>
+    <string name="toast_clear_history">Clear history</string>
+    <string name="toast_clear_passwords">Clear passwords</string>
+
+</resources>
