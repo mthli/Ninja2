@@ -7,7 +7,7 @@ Support Android Lollipop and above.
 
 [Download APK]( "").
 
-If you want to use with your own language, just fork this repo and translate the [strings.xml]().
+If you want to use with your own language, just fork this repo, translate the [strings.xml](), and then make a PR.
 
 ## Dependences
 
