@@ -100,7 +100,7 @@
     <string name="preference_summary_fingerprint_extension">Quick switch to recents and split screen, need to enable in system accessibility settings.</string>
     <string name="preference_summary_licenses">Open source licenses detail.</string>
     <string name="preference_summary_screenshot">Capture webpage as picture, but has some performance cost. Need to restart application.</string>
-    <string name="preference_summary_show_soft_keyboard">Auto focus on omnibox and show soft keyboard when new tab.</string>
+    <string name="preference_summary_show_soft_keyboard">Auto show soft keyboard when new tab.</string>
     <string-array name="preference_entries_search_engine_id">
         <item>Google</item>
         <item>DuckDuckGo</item>
