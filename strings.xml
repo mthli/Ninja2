@@ -67,6 +67,7 @@
     <string name="ssl_error_notyetvalid">The certificate is not yet valid.</string>
     <string name="ssl_error_untrusted">The certificate authority is not trusted.</string>
     <string name="toast_downloading">Downloading %1$s</string>
+    <string name="toast_download_failed">Download failed</string>
     <string name="toast_save_to_path">Save to %1$s</string>
     <string name="toast_screenshot_failed">Screenshot failed</string>
     <string name="toast_pin_to_homepage">Pin %1$s</string>
@@ -89,6 +90,7 @@
     <string name="preference_title_clear_passwords">Clear passwords</string>
     <string name="preference_title_enable_multiple_windows">Multiple windows</string>
     <string name="preference_title_fingerprint_extension">Fingerprint extension</string>
+    <string name="preference_title_homepage_reverse">Homepage reverse</string>
     <string name="preference_title_licenses">Licenses</string>
     <string name="preference_title_screenshot">Show screenshot menu</string>
     <string name="preference_title_search_engine_id">Search engine</string>
@@ -98,7 +100,7 @@
     <string name="preference_summary_adblock">Use hosts to block advertisement.</string>
     <string name="preference_summary_enable_multiple_windows">Allow website auto open new tabs.</string>
     <string name="preference_summary_fingerprint_extension">Quick switch to recents and split screen, need to enable in system accessibility settings.</string>
-    <string name="preference_summary_licenses">Open source licenses detail.</string>
+    <string name="preference_summary_homepage_reverse">Sort homepage item from bottom to top.</string>
     <string name="preference_summary_screenshot">Capture webpage as picture, but has some performance cost. Need to restart application.</string>
     <string name="preference_summary_show_soft_keyboard">Auto show soft keyboard when new tab.</string>
     <string-array name="preference_entries_search_engine_id">
