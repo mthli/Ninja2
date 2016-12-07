@@ -55,6 +55,7 @@
     <string name="page_menu_screenshot">Screenshot</string>
     <string name="page_menu_share_url">Share URL</string>
     <string name="page_menu_desktop_mode">Desktop mode</string>
+    <string name="page_menu_back_to_homepage">Back to homepage</string>
     <string name="page_menu_new_tab">New tab</string>
     <string name="page_menu_private">New private tab</string>
     <string name="page_menu_pin_to_homepage">Pin to homepage</string>
@@ -84,6 +85,7 @@
     <string name="preference_category_function">Function</string>
     <string name="preference_category_others">Others</string>
     <string name="preference_title_adblock">AdBlock</string>
+    <string name="preference_title_back_to_homepage">Back to homepage</string>
     <string name="preference_title_clear_cookies">Clear cookies</string>
     <string name="preference_title_clear_form_data">Clear form data</string>
     <string name="preference_title_clear_history">Clear history</string>
@@ -94,16 +96,15 @@
     <string name="preference_title_licenses">Licenses</string>
     <string name="preference_title_screenshot">Show screenshot menu</string>
     <string name="preference_title_search_engine_id">Search engine</string>
-    <string name="preference_title_shake_to_homepage">Shake to homepage</string>
     <string name="preference_title_show_soft_keyboard">Show soft keyboard</string>
     <string name="preference_title_version">Version</string>
     <string name="preference_title_feedback">Feedback</string>
     <string name="preference_summary_adblock">Use hosts to block advertisement.</string>
+    <string name="preference_summary_back_to_homepage">Show back to homepage in menu.</string>
     <string name="preference_summary_enable_multiple_windows">Allow website auto open new tabs.</string>
     <string name="preference_summary_fingerprint_extension">Quick switch to recents and split screen, need to enable in system accessibility settings.</string>
     <string name="preference_summary_homepage_reverse">Sort homepage item from bottom to top.</string>
     <string name="preference_summary_screenshot">Capture webpage as picture, but has some performance cost. Need to restart application.</string>
-    <string name="preference_summary_shake_to_homepage">Shake your phone back to homepage, be careful of the phone flying out!</string>
     <string name="preference_summary_show_soft_keyboard">Auto show soft keyboard when new tab.</string>
     <string-array name="preference_entries_search_engine_id">
         <item>Google</item>
