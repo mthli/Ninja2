@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2016 Matthew Lee
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
 
 <resources>
 
@@ -84,6 +98,7 @@
     <string name="preference_category_function">Function</string>
     <string name="preference_category_others">Others</string>
     <string name="preference_title_adblock">AdBlock</string>
+    <string name="preference_title_back_vibrate">Back vibrate</string>
     <string name="preference_title_clear_cookies">Clear cookies</string>
     <string name="preference_title_clear_form_data">Clear form data</string>
     <string name="preference_title_clear_history">Clear history</string>
@@ -98,6 +113,7 @@
     <string name="preference_title_version">Version</string>
     <string name="preference_title_feedback">Feedback</string>
     <string name="preference_summary_adblock">Use hosts to block advertisement.</string>
+    <string name="preference_summary_back_vibrate">Vibrate when long press back to homepage.</string>
     <string name="preference_summary_enable_multiple_windows">Allow website auto open new tabs.</string>
     <string name="preference_summary_fingerprint_extension">Quick switch to recents and split screen, need to enable in system accessibility settings.</string>
     <string name="preference_summary_homepage_reverse">Sort homepage item from bottom to top.</string>
