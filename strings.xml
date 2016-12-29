@@ -69,6 +69,7 @@
     <string name="page_menu_screenshot">Screenshot</string>
     <string name="page_menu_share_url">Share URL</string>
     <string name="page_menu_desktop_mode">Desktop mode</string>
+    <string name="page_menu_custom_ua">Custom UA</string>
     <string name="page_menu_new_tab">New tab</string>
     <string name="page_menu_private">New private tab</string>
     <string name="page_menu_pin_to_homepage">Pin to homepage</string>
@@ -92,8 +93,10 @@
     <string name="toast_record_audio_permission_denied">Record audio permission denied</string>
     <string name="toast_storage_permission_denied">Storage permission denied</string>
 
-    <string name="dialog_message_wait_a_minute">Wait a minute&#8230;</string>
     <string name="label_settings">Settings</string>
+    <string name="hint_custom_ua">Custom UA</string>
+    <string name="dialog_message_wait_a_minute">Wait a minute&#8230;</string>
+    <string name="dialog_bottom_reset">Reset</string>
     <string name="preference_category_browser">Browser</string>
     <string name="preference_category_function">Function</string>
     <string name="preference_category_others">Others</string>
@@ -103,6 +106,7 @@
     <string name="preference_title_clear_form_data">Clear form data</string>
     <string name="preference_title_clear_history">Clear history</string>
     <string name="preference_title_clear_passwords">Clear passwords</string>
+    <string name="preference_title_custom_user_agent">Custom UA</string>
     <string name="preference_title_enable_multiple_windows">Multiple windows</string>
     <string name="preference_title_fingerprint_extension">Fingerprint extension</string>
     <string name="preference_title_homepage_reverse">Homepage reverse</string>
@@ -114,6 +118,7 @@
     <string name="preference_title_feedback">Feedback</string>
     <string name="preference_summary_adblock">Use hosts to block advertisement.</string>
     <string name="preference_summary_back_vibrate">Vibrate when long press back to homepage.</string>
+    <string name="preference_summary_custom_user_agent">Set custom UA will replace the desktop mode.</string>
     <string name="preference_summary_enable_multiple_windows">Allow website auto open new tabs.</string>
     <string name="preference_summary_fingerprint_extension">Quick switch to recents and split screen, need to enable in system accessibility settings.</string>
     <string name="preference_summary_homepage_reverse">Sort homepage item from bottom to top.</string>
