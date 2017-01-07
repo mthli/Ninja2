@@ -40,12 +40,12 @@
     <string name="options_share_url">Share URL</string>
     <string name="toast_copy_url">Copy %1$s</string>
 
+    <string name="text_select_icon">Select icon</string>
     <string name="hint_add_to_launcher">Label name</string>
     <string name="hint_input_normal">Search or type URL</string>
     <string name="hint_input_edit">Input pin title</string>
     <string name="hint_login_username">Username</string>
     <string name="hint_login_password">Password</string>
-    <string name="dialog_title_add_to_launcher">Add to launcher</string>
     <string name="dialog_message_allow_location_prefix">Allow&#160;</string>
     <string name="dialog_message_allow_location_suffix">&#160;to access this device\'s location?</string>
     <string name="dialog_message_download_prefix">Confirm to download&#160;</string>
@@ -87,7 +87,8 @@
     <string name="toast_screenshot_failed">Screenshot failed</string>
     <string name="toast_pin_to_homepage">Pin %1$s</string>
     <string name="toast_add_to_launcher_successful">Add %1$s to launcher</string>
-    <string name="toast_add_to_launcher_failed">Can\'t add %1$s to launcher</string>
+    <string name="toast_select_icon_failed">Select custom icon failed</string>
+    <string name="toast_select_icon_size_error">Icon size must less than or equal to %1$dx%2$d</string>
     <string name="toast_camera_permission_denied">Camera permission denied</string>
     <string name="toast_location_permission_denied">Location permission denied</string>
     <string name="toast_record_audio_permission_denied">Record audio permission denied</string>
